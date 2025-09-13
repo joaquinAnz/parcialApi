@@ -16,7 +16,7 @@ Permite gestionar **clientes** y sus **reservas**, con operaciones CRUD (Crear, 
 
 ---
 
-## ⚙️ Instalación
+##  Instalación
 
 1. Clona el repositorio:
    ```bash
